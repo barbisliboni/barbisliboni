@@ -1,7 +1,11 @@
-### Hi there 👋
+### E aí? 👋
 
 <!--
-**barbisliboni/barbisliboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**barbisliboni/barbisliboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+**Eu sou loira, otaku, gamer, nerd bazinga e fã de naruto.**
+
+**Gosto de miojo, paçoca, cup noodles e muita carne 😋**
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
