@@ -12,6 +12,9 @@
  **Linkedin:** [Bárbara Liboni Guerra](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/)
  
  **Facebook:** [Bárbara Liboni Guerra](https://www.facebook.com/barbara.liboni.5/)
+ 
+ <img aling="center" src="https://thumbs.gfycat.com/BigheartedEnragedKoi-max-1mb.gif"/>
+ 
 
 
 
