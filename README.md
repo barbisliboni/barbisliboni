@@ -13,7 +13,7 @@
  
  **Facebook:** [Bárbara Liboni Guerra](https://www.facebook.com/barbara.liboni.5/)
  
- <img aling="center" src="https://thumbs.gfycat.com/BigheartedEnragedKoi-max-1mb.gif"/>
+ <img aling="center" src="https://i.gifer.com/CQx.gif"/>
  
 
 
