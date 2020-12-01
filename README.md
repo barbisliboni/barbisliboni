@@ -13,7 +13,7 @@
  
  **Facebook:** [Bárbara Liboni Guerra](https://www.facebook.com/barbara.liboni.5/)
  
- <img aling="center" src="https://i.gifer.com/CQx.gif"/>
+ <img aling="center" src="https://i.pinimg.com/originals/f3/6b/89/f36b8915b6c60753325407dbd2cd3b5a.gif"/>
  
 
 
