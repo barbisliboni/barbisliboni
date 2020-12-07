@@ -10,8 +10,8 @@
 <br>
 
  <a href = "https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+ <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
  
-<a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
  
  
 
