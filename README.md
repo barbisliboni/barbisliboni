@@ -19,6 +19,10 @@
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
 - ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
 
+&nbsp;
+
+![](https://cdnb.artstation.com/p/assets/images/images/015/789/605/original/kaitlyn-dougon-sasha-s-window.gif?1549643712)
+
 
  
 
