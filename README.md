@@ -12,11 +12,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=barbisliboni&repo=Generation&theme=midnight-purple" />
 </a>   
 
-<br />
+&nbsp;
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;
- <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/metro/26/000000/facebook-new--v2.png"/></a>&nbsp;&nbsp;&nbsp;
- <a href = "https://www.instagram.com/barbisliboni/?hl=pt-br"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/></a>
+- 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/) and [Instagram](https://www.instagram.com/barbisliboni/?hl=pt-br)
+- 🌱 I’m currently learning Java, JavaScript, Node.js and Angular
+- 👯 I’m looking to collaborate on any kind of project that I would be helpful
+- ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
+
+
  
 
 
