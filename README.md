@@ -3,6 +3,7 @@
 <!--
 **barbisliboni/barbisliboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=barbisliboni&layout=compact&theme=midnight-purple" />
@@ -12,8 +13,7 @@
  <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/metro/26/000000/facebook-new--v2.png"/></a>
  <a href = "https://www.instagram.com/barbisliboni/?hl=pt-br"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/></a>
  </p>
- 
-
+ </center>
 
 
 
