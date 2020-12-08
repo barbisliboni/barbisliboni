@@ -1,4 +1,3 @@
-### E aí? 👋
 
 <!--
 **barbisliboni/barbisliboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -13,6 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=barbisliboni&repo=Generation&theme=midnight-purple" />
 </a>   
 
+<br />
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;
  <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/metro/26/000000/facebook-new--v2.png"/></a>&nbsp;&nbsp;&nbsp;
