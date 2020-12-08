@@ -9,8 +9,8 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=barbisliboni&layout=compact&theme=midnight-purple" />
 </a>
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a>&nbsp;
- <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/metro/26/000000/facebook-new--v2.png"/></a>&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a>&nbsp;&nbsp;
+ <a href = "https://www.facebook.com/barbara.liboni.5"><img src="https://img.icons8.com/metro/26/000000/facebook-new--v2.png"/></a>&nbsp;&nbsp;
  <a href = "https://www.instagram.com/barbisliboni/?hl=pt-br"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/></a>
  </p>
  </center>
