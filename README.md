@@ -12,7 +12,7 @@
 &nbsp;
 
 - 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/) and [Instagram](https://www.instagram.com/barbisliboni/?hl=pt-br)
-- 🌱 I’m currently learning Java, JavaScript, Node.js and Angular
+- 🌱 I’m currently learning Java, JavaScript, API and Angular
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
 - ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
 
