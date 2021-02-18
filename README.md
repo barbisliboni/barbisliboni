@@ -11,7 +11,7 @@
 
 &nbsp;
 
-- 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/) and [Instagram](https://www.instagram.com/barbisliboni/?hl=pt-br)
+- 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/) and [Facebook](https://www.facebook.com/barbara.liboni.5/)
 - 🌱 I’m currently learning Java, JavaScript, Angular and how to build APIs
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
 - ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
