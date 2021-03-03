@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)">
+[![trophy](https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 &nbsp;
 
