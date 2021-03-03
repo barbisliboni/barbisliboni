@@ -7,7 +7,8 @@
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=barbisliboni&layout=compact&theme=midnight-purple" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+      
+      
 
 &nbsp;
 
@@ -15,6 +16,12 @@
 - 🌱 I’m currently learning Java, JavaScript, Angular and how to build APIs
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
 - ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 &nbsp;
 
