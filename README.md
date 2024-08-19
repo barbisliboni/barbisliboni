@@ -2,14 +2,7 @@
 <!--
 **barbisliboni/barbisliboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align = center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbisliboni&layout=compact&theme=midnight-purple" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      
-      
-
-&nbsp;
+<hr>
 
 - 👨‍💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-liboni-guerra-9663451b6/)
 - 🌱 I’m currently learning Kotlin, Python, AWS and how to build APIs
